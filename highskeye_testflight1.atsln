@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{E66E83B9-2572-4076-B26E-6BE79FF3018A}") = "highskeye_testflight1", "highskeye_testflight1\highskeye_testflight1.cppproj", "{C4E5D65D-C000-4352-8423-EC55046AD77E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4E5D65D-C000-4352-8423-EC55046AD77E}.Debug|AVR.ActiveCfg = Debug|AVR
+		{C4E5D65D-C000-4352-8423-EC55046AD77E}.Debug|AVR.Build.0 = Debug|AVR
+		{C4E5D65D-C000-4352-8423-EC55046AD77E}.Release|AVR.ActiveCfg = Release|AVR
+		{C4E5D65D-C000-4352-8423-EC55046AD77E}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
